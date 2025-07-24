@@ -28,7 +28,7 @@ from novaprinter import prettyPrinter
 
 
 class one337x(object):
-    url = 'https://1337x.to'
+    url = 'https://1337x.st'
     name = '1337x'
     supported_categories = {
         'all': None,
